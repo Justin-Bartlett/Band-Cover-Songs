@@ -1,7 +1,9 @@
+import BandManager from "./components/BandManager"
+
 import "./App.css"
 
 function App() {
-  return <section id="center"></section>
+  return <BandManager />
 }
 
 export default App
